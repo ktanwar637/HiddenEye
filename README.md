@@ -86,7 +86,7 @@ The use of the HiddenEye & its resources/phishing-pages is **COMPLETE RESPONSIBI
 * If we don't found user response on his/her issue in the particular time interval , Then we have to close that issue.
 * Do Not Spam or Advertise & Respect Everyone.
 
-### WHAT'S NEW FEATURES
+### WHAT'S NEW FEATURES FOR YOU
 **1) LIVE ATTACK**
 - Now you will have live information about the victims such as : IP ADDRESS, Geolocation, ISP, Country, & many more.
 
